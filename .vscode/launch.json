@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/michael/Desktop/sysu内卷个鬼！/study/大三上/算法/hw1",
-      "program": "/Users/michael/Desktop/sysu内卷个鬼！/study/大三上/算法/hw1/build/Debug/outDebug"
+      "cwd": "/Users/michael/Desktop/sysu内卷个鬼！/study/大三上/算法/hw10",
+      "program": "/Users/michael/Desktop/sysu内卷个鬼！/study/大三上/算法/hw10/build/Debug/outDebug"
     }
   ]
 }
