@@ -1,3 +1,11 @@
+/*
+poj 1077
+
+algorithm:
+    Bi-Directional BFS
+    Cantor expansion
+*/
+
 #include<cstdio>
 #include<queue>
 #include<string>
